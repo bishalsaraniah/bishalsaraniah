@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7EE32&width=435&lines=FULL+STACK+WEB+DEVELOPER;EXPERIENCED+UI%2FUX+DESIGNER;ALWAYS+LEARNING+NEW+THINGS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7D958&width=435&lines=FULL+STACK+WEB+DEVELOPER;EXPERIENCED+UI%2FUX+DESIGNER;ALWAYS+LEARNING+NEW+THINGS" alt="Typing SVG" /></a>
 </p>
 
 # 💫 About Me:
