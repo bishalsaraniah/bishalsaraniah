@@ -18,11 +18,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7D958&width=435&lines=FULL+STACK+WEB+DEVELOPER;EXPERIENCED+UI%2FUX+DESIGNER;ALWAYS+LEARNING+NEW+THINGS" alt="Typing SVG" /></a>
 </p>
 
-# 💫 About Me:
-Hey, Bishal Here
-
- <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+[![](https://visitcount.itsvg.in/api?id=bishalsaraniah&icon=5&color=0)](https://visitcount.itsvg.in)
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -89,13 +85,7 @@ Hey, Bishal Here
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-
-  <h3>🌐 Social Links</h3>
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/01bs10) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalsaraniah) 
-  
-  
+  </p>  
   </details>
 
 
@@ -111,7 +101,7 @@ Hey, Bishal Here
 ![](https://github-profile-trophy.vercel.app/?username=bishalsaraniah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bishalsaraniah&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
