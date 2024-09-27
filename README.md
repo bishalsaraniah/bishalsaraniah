@@ -18,11 +18,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7D958&width=435&lines=FULL+STACK+WEB+DEVELOPER;EXPERIENCED+UI%2FUX+DESIGNER;ALWAYS+LEARNING+NEW+THINGS" alt="Typing SVG" /></a>
 </p>
 
-# 💫 About Me:
-Hey, Bishal Here
+#  Life Update
+ <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="Typing SVG" />
+   <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" alt="Typing SVG" />
 
- <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -89,13 +89,7 @@ Hey, Bishal Here
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-
-  <h3>🌐 Social Links</h3>
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/01bs10) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalsaraniah) 
-  
-  
+  </p>  
   </details>
 
 
