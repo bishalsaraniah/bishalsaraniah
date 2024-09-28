@@ -1,7 +1,11 @@
-<p align="center">
-    <a href="https://github.com/bishalsaraniah">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Bishal Saraniah" /></a>
-</p>
+![Github_header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+<h1 align="center"> Hello Fellas, it's me Bishal
+    
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7D958&width=435&lines=FULL+STACK+WEB+DEVELOPER;EXPERIENCED+UI%2FUX+DESIGNER;ALWAYS+LEARNING+NEW+THINGS>)](https://git.io/typing-svg)
+
+</h1>
+
 
 
 <!-- Social icons section -->
@@ -14,11 +18,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="center">
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7D958&width=435&lines=FULL+STACK+WEB+DEVELOPER;EXPERIENCED+UI%2FUX+DESIGNER;ALWAYS+LEARNING+NEW+THINGS" alt="Typing SVG" /></a>
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=bishalsaraniah&icon=5&color=0)](https://visitcount.itsvg.in)
+</h1>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
